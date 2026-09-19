@@ -1,0 +1,2 @@
+09/19/2026-08:50:04.332988  [**] [1:1000001:1] CUSTOM Possible SYN port scan detected [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.204.1:34478 -> 192.168.204.20:111
+09/19/2026-08:50:06.611199  [**] [1:1000002:1] CUSTOM Possible reverse shell outbound to known shell port [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.204.1:34478 -> 192.168.204.20:4444
